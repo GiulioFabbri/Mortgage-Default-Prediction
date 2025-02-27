@@ -83,4 +83,3 @@ Various models were tested to determine the most accurate one:
 
 Gradient Boosting with variable selection is the best model due to its high accuracy and reduced dataset complexity.
 
-Thank you!
