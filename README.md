@@ -1,4 +1,4 @@
-# Mortgage Default Prediction
+# Data Analytics for Insurance: Mortgage-Default-Prediction
 
 ## Authors
 
